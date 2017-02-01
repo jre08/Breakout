@@ -1,0 +1,6 @@
+C:\Users\edenfield-john\Documents\SharpDevelop Projects\Breakout\Breakout\obj\Debug\Breakout.csprojResolveAssemblyReference.cache
+C:\Users\edenfield-john\Documents\SharpDevelop Projects\Breakout\Breakout\bin\Debug\Breakout.exe.config
+C:\Users\edenfield-john\Documents\SharpDevelop Projects\Breakout\Breakout\bin\Debug\Breakout.exe
+C:\Users\edenfield-john\Documents\SharpDevelop Projects\Breakout\Breakout\bin\Debug\Breakout.pdb
+C:\Users\edenfield-john\Documents\SharpDevelop Projects\Breakout\Breakout\obj\Debug\Breakout.exe
+C:\Users\edenfield-john\Documents\SharpDevelop Projects\Breakout\Breakout\obj\Debug\Breakout.pdb
